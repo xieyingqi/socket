@@ -1,0 +1,5 @@
+﻿  server.cpp
+e:\7_other\0_lianxi\cpp_socket\server\server\server.cpp(20): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+  server.vcxproj -> E:\7_Other\0_lianxi\cpp_socket\server\Debug\server.exe
+  server.vcxproj -> E:\7_Other\0_lianxi\cpp_socket\server\Debug\server.pdb (Partial PDB)
